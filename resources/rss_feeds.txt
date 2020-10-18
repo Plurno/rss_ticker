@@ -1,0 +1,3 @@
+https://www.newyorker.com/feed/everything
+https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+https://fivethirtyeight.com/all/feed
